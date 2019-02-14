@@ -7,3 +7,4 @@ Still in development. Works best with Chrome.
 
 ## Setup
 Please see the [Setup](https://github.com/bui/taiko-web/wiki/Setup) page for setup instructions.
+[setup](https://github.com/caralr/taiko-web/wiki/Setup)
